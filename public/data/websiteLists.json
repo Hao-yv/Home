@@ -5,13 +5,14 @@
         "items": [
             [
                 {
+                    
                     "icon": "Blog",
                     "name": "博客",
-                    "url": "https://notes.worstone.cn/"
+                    "url": "https://hao-yv.github.io/" 
                 }, {
                     "icon": "Code",
-                    "name": "力扣",
-                    "url": "https://leetcode.cn/"
+                    "name": "洛谷",
+                    "url": "https://www.luogu.com.cn/"
                 }, {
                     "icon": "Search",
                     "name": "搜索",
@@ -23,7 +24,7 @@
                 }, {
                     "icon": "Cloud",
                     "name": "网盘",
-                    "url": "https://www.aliyundrive.com/"
+                    "url": "https://pan.baidu.com/"
                 }
             ], [
                     {
