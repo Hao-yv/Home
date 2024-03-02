@@ -35,6 +35,11 @@
                     "icon": "Book",
                     "name": "背单词",
                     "url": "https://kaiyiwing.gitee.io/qwerty-learner/"
+                },
+                {
+                    "icon": "Earth",
+                    "name": "背单词",
+                    "url": "https://kaiyiwing.gitee.io/qwerty-learner/"
                 }
             ]
         ]
