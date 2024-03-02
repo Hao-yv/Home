@@ -28,8 +28,8 @@
     import { loadData } from '@/api';
     import { Icon } from "@vicons/utils";
     import { Error } from "@icon-park/vue-next";
-    import{Earth} from "@vicons/ionicons5"
-    import { Bars, Blog, Book, Cloud, Code, Cog, CompactDisc, Fan, Link, Music, PencilAlt, Search, SlidersH, Train,Hotel } from "@vicons/fa";
+    import{Earth, School, LogoCodepen} from "@vicons/ionicons5"
+    import { Bars, Blog, Book, Cloud, Code, Cog, CompactDisc, Fan, Link, Music, PencilAlt, Search, SlidersH, Train, Hotel,Tree} from "@vicons/fa";
 
     import { mainStore } from "@/store";
 
@@ -55,7 +55,10 @@
         "SlidersH": SlidersH,
         "Train": Train,
         "Hotel":Hotel,
-        "Earth":Earth
+        "Earth":Earth,
+        "School":School,
+        "Tree":Tree,
+        "LogoCodepen":LogoCodepen
     };
 
     const hitokoto = () => {

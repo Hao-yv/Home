@@ -14,6 +14,10 @@
                     "name": "洛谷",
                     "url": "https://www.luogu.com.cn/"
                 }, {
+                    "icon": "LogoCodepen",
+                    "name": "Atcoder",
+                    "url": "https://atcoder.jp/"
+                }, {
                     "icon": "Search",
                     "name": "搜索",
                     "url": "https://kaifa.baidu.com/"
@@ -28,18 +32,25 @@
                 }
             ], [
                     {
-                    "icon": "Train",
-                    "name": "开往",
-                    "url": "https://www.foreverblog.cn/go.html"
+                    "icon": "Earth",
+                    "name": "学习通",
+                    "url": "https://i.chaoxing.com/"
+                }, {
+                    "icon": "Tree",
+                    "name": "智慧树",
+                    "url": "https://onlineweb.zhihuishu.com/"
+                }, {
+                    "icon": "School",
+                    "name": "优学院",
+                    "url": "https://courseweb.ulearning.cn/"
                 }, {
                     "icon": "Book",
                     "name": "背单词",
                     "url": "https://kaiyiwing.gitee.io/qwerty-learner/"
-                },
-                {
-                    "icon": "Earth",
-                    "name": "学习通",
-                    "url": "https://i.chaoxing.com/"
+                }, {
+                    "icon": "Train",
+                    "name": "开往",
+                    "url": "https://www.foreverblog.cn/go.html"
                 }
             ]
         ]
